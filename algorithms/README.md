@@ -6,9 +6,5 @@
 #### 3. lengthOfLongestSubstring 查找字符串中的最长不重复子串的长度
 #### 4. StringTointeger(atio) 手动实现atio函数，转换str到int
 #### 5. Palindrome Number 判断一个整数是否为回文数，不使用额外变量
-<<<<<<< HEAD
 #### 6. mergeTwoBinaryTree 合并两棵二叉树
-#### 7. regularExpressionMatching 手动实现.*正则表达式匹配函数
-=======
-#### 6. mergeTwoBinaryTree 合并两棵二叉树
->>>>>>> e34fe92522ff4a3a1d5d975d5fc5d5db5aaf6948
+#### 7. regularExpressionMatching 实现.*正则表达式匹配函数
