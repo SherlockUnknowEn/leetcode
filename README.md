@@ -1,7 +1,7 @@
 # leetcode
 使用python刷leetcode题目，包含思路的简单描述和代码，不定时更新
 
-#### 1. 1. longestPalindromeSubstring 查找字符串中最长回文
+#### 1. longestPalindromeSubstring 查找字符串中最长回文
 #### 2. findMidianSortedArrays 查找两个已排序数组的中位数
 #### 3. longestSubstringWithoutRepeating 查找字符串中的最长不重复子串的长度
 #### 4. stringTointeger(atio) 手动实现atio函数，转换str到int
