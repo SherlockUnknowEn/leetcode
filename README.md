@@ -14,3 +14,4 @@
 #### 11. Container With Most Water 容器最大盛水量问题
 #### 12. Integer to Roman 阿拉伯数字转换成罗马数字
 #### 13. Roman to Integer 罗马数字转换成阿拉伯数字
+#### 14. Longest Common Prefix 字符串数组最长公共前缀
