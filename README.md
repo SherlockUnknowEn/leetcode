@@ -15,3 +15,5 @@
 #### 12. Integer to Roman 阿拉伯数字转换成罗马数字
 #### 13. Roman to Integer 罗马数字转换成阿拉伯数字
 #### 14. Longest Common Prefix 字符串数组最长公共前缀
+#### 15. 3Sum 三元组相加获得target
+#### 16. 3SumClosest 三元组相加获得结果最接近target
