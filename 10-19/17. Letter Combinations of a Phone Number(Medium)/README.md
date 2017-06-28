@@ -3,10 +3,12 @@
 
 * 给定一个数字字符串，返回数字可能代表的所有可能的字母组合。
 * 数字到字母的映射（就像九宫格电话按钮一样）如下图。
+
 ![九宫格图片](https://github.com/SherlockUnknowEn/leetcode/blob/master/10-19/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(Medium)/img/Telephone.svg.png)
+
 * Given a digit string, return all possible letter combinations that the number could represent.
 * A mapping of digit to letters (just like on the telephone buttons) is given below.
-* 
+
 Note:
 Although the above answer is in lexicographical order, your answer could be in any order you want.
 
