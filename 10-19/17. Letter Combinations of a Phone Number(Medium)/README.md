@@ -3,7 +3,7 @@
 
 * 给定一个数字字符串，返回数字可能代表的所有可能的字母组合。
 * 数字到字母的映射（就像九宫格电话按钮一样）如下图。
-![九宫格图片](http://img.blog.csdn.net/20170628141304665?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ2l0aHViXzM3OTUzNzgx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![九宫格图片](https://github.com/SherlockUnknowEn/leetcode/blob/master/10-19/17.%20Letter%20Combinations%20of%20a%20Phone%20Number(Medium)/img/Telephone.svg.png)
 * Given a digit string, return all possible letter combinations that the number could represent.
 * A mapping of digit to letters (just like on the telephone buttons) is given below.
 * 
