@@ -1,5 +1,5 @@
 # 合并两个已排序的链表
-#### *Valid Parentheses*
+#### *Merge Two Sorted Lists*
 
 * 合并两个已排序的链表，新链表中的每个节点必须是来自输入的两个链表的节点（即不能构造新的节点），返回新链表的头部。
 * Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
