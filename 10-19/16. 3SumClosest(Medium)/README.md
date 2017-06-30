@@ -16,7 +16,7 @@ output: 2
 ```
 
 ### 思路
-1. 思路参照[三元组相加获得target](http://blog.csdn.net/github_37953781/article/details/73776287)
+1. 思路参照[三元组相加获得target](https://github.com/SherlockUnknowEn/leetcode/tree/master/10-19/15.%203Sum(Medium))
 2. 只需要将上述文章思路2中换成：第二次循环找到 三元组的和 最接近target的组合即可。
 
 ### 代码

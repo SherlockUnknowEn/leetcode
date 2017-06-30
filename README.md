@@ -18,3 +18,6 @@
 #### 15. 3Sum 三元组相加获得target
 #### 16. 3SumClosest 三元组相加获得结果最接近target
 #### 17. Letter Combinations of a Phone Number 九宫格数字键盘字符组合
+#### 18. 4Sum 四元组相加获得target
+#### 19. Remove Nth Node From End of List 移除链表倒数第n个元素
+#### 20. 验证大小中括号是否成对闭合匹配
