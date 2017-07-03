@@ -26,7 +26,7 @@ class Solution(object):
         from functools import reduce
         if not digits:
             return []
-        nums = '  abc def ghi jkl mno pqrs tuv wxyz'.split(' ')
+        nums = '0 1 abc def ghi jkl mno pqrs tuv wxyz'.split(' ')
         return reduce(lambda last, d: [x + y for x in last for y in nums[int(d)]], digits, [''])  # 第三个参数是initial
 
 
@@ -34,7 +34,7 @@ class Solution(object):
     def letterCombinations_old(self, digits):
         if not digits:
             return []
-        nums = '  abc def ghi jkl mno pqrs tuv wxyz'.split(' ')
+        nums = '0 1 abc def ghi jkl mno pqrs tuv wxyz'.split(' ')
         ret = [_ for _ in nums[int(digits[0])]]
         digits = digits[1:]
         while digits:
