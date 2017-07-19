@@ -22,3 +22,4 @@
 #### 19. Remove Nth Node From End of List 移除链表倒数第n个元素
 #### 20. 验证大小中括号是否成对闭合匹配
 #### 21. Merge Two Sorted Lists 合并两个已排序的链表
+#### 22. Generate Parentheses 构造n个成对括号
