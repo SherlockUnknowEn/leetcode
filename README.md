@@ -26,3 +26,5 @@
 #### 23. Merge k Sorted Lists 合并n个已排序的链表
 #### 24. Swap Nodes in Pairs 成对交换链表节点
 #### 25. Reverse Nodes in k-Group k组倒置链表节点
+#### 26. Remove Duplicates from Sorted Array 移除数组中重复元素
+#### 27. Divide Two Integers 两数相除——不允许使用高级运算
