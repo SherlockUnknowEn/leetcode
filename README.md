@@ -4,7 +4,9 @@
 #### 1. longestPalindromeSubstring 查找字符串中最长回文
 #### 2. findMidianSortedArrays 查找两个已排序数组的中位数
 #### 3. longestSubstringWithoutRepeating 查找字符串中的最长不重复子串的长度
+
 #### 4. stringTointeger(atio) 手动实现atio函数，转换str到int
+
 #### 5. palindrome Number 判断一个整数是否为回文数，不使用额外变量
 #### 6. mergeTwoBinaryTree 合并两棵二叉树
 #### 7. regularExpressionMatching 实现.*正则表达式匹配函数
@@ -25,6 +27,9 @@
 #### 22. Generate Parentheses 构造n个成对括号
 #### 23. Merge k Sorted Lists 合并n个已排序的链表
 #### 24. Swap Nodes in Pairs 成对交换链表节点
+
 #### 25. Reverse Nodes in k-Group k组倒置链表节点
 #### 26. Remove Duplicates from Sorted Array 移除数组中重复元素
 #### 27. Divide Two Integers 两数相除——不允许使用高级运算
+
+#### 28. Substring with Concatenation of All Words 寻找所有词串联的子串的位置
