@@ -31,5 +31,5 @@
 #### 25. Reverse Nodes in k-Group k组倒置链表节点
 #### 26. Remove Duplicates from Sorted Array 移除数组中重复元素
 #### 27. Divide Two Integers 两数相除——不允许使用高级运算
-
 #### 28. Substring with Concatenation of All Words 寻找所有词串联的子串的位置
+#### 29. Next Permutation 数字数组的下一个最小排列
