@@ -55,25 +55,22 @@ class Solution:
             if nums[i] > nums[i+1]:
                 idx = i
                 break
-        re = self.barnary_search(nums, target, 0, idx)
+        re = self.__barnary_search(nums, target, 0, idx)
         if re == -1:
-            re = self.barnary_search(nums, target, idx+1, len(nums)-1)
+            re = self.__barnary_search(nums, target, idx+1, len(nums)-1)
         return re
 
 
 
-    def barnary_search(self, nums, target, start, end):
-        if start >= end:
-            if (nums[start] != target):
-                return -1
+    def __barnary_search(self, nums, target, left, right):
+        while(left <= right):
+            middle = (left + right) // 2
+            if nums[middle] == target:
+                return middle
+            elif nums[middle] > target:
+                right = middle - 1
             else:
-                return start
-        middle = (start + end) // 2
-        if nums[middle] > target:
-            return self.barnary_search(nums, target, start, middle)
-        elif nums[middle] < target:
-            return self.barnary_search(nums, target, middle+1, end)
-        else:
-            return middle
+                left = middle + 1
+        return -1
 ```
 本题以及其它leetcode题目代码github地址: [github地址](https://github.com/SherlockUnknowEn/leetcode)
