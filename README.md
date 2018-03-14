@@ -34,3 +34,4 @@
 #### 28. Substring with Concatenation of All Words 寻找所有词串联的子串的位置
 #### 29. Next Permutation 数字数组的下一个最小排列
 #### 30. Longest Valid Parentheses 求最长的括弧匹配子串的长度
+#### 31. Search in Rotated Sorted Array 反转内数组搜寻元素
