@@ -36,3 +36,5 @@
 #### 30. Longest Valid Parentheses 求最长的括弧匹配子串的长度
 #### 31. Search in Rotated Sorted Array 反转内数组搜寻元素
 #### 32. Search for a Range 查找元素在数组中的位置范围
+#### 33. Search Insert Position 查找元素插入的位置
+#### 34. Valid Sudoku 验证数独题目是否合规
