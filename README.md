@@ -39,3 +39,4 @@
 #### 33. Search Insert Position 查找元素插入的位置
 #### 34. Valid Sudoku 验证数独题目是否合规
 #### 35. Sudoku Solver 数独解题器
+#### 36. Count and Say 报数
