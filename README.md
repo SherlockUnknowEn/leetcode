@@ -38,4 +38,4 @@
 ##### 35. [Sudoku Solver](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/35.%20Sudoku%20Solver(Hard)) 数独解题器
 ##### 36. [Count and Say](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/36.%20Count%20and%20Say(Easy)) 报数
 ##### 37. [Combination Sum](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/37.%20Combination%20Sum(Medium)) 组合总数
-##### 38. [Combination Sum II](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/37.%20Combination%20Sum(Medium)%20II) 组合总数 II
+##### 38. [Combination Sum II](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/38.%20Combination%20Sum%20II(Medium)) 组合总数 II
