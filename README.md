@@ -39,3 +39,4 @@
 ##### 36. [Count and Say](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/36.%20Count%20and%20Say(Easy)) 报数
 ##### 37. [Combination Sum](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/37.%20Combination%20Sum(Medium)) 组合总数
 ##### 38. [Combination Sum II](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/38.%20Combination%20Sum%20II(Medium)) 组合总数 II
+##### 39. [First Missing Positive](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/39.%20First%20Missing%20Positive(Hard)) 缺失的第一个正数
