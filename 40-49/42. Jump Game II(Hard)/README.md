@@ -40,8 +40,9 @@ Explanation: The minimum number of jumps to reach the last index is 2.
 
 ### 思路
 
-1. 使用farthest保存当前最远可到达的距离
+1. 循环遍历数组，使用farthest保存当前最远可到达的距离
 2. next为当前步数可达到的距离，到达next后，step加1
+3. 到达next之前，farthest的更新不影响已花费的步数step，到达next后，下一个next等于这过程中寻找到的farthest
 
 
 ### 代码
