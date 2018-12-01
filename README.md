@@ -42,3 +42,4 @@
 ##### 39. [First Missing Positive](https://github.com/SherlockUnknowEn/leetcode/tree/master/30-39/39.%20First%20Missing%20Positive(Hard)) 缺失的第一个正数
 ##### 40. [Trapping Rain Water](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/40.%20Trapping%20Rain%20Water(Hard)) 接雨水
 ##### 41. [Multiply Strings](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/41.%20Multiply%20Strings(Medium)) 字符串相乘
+##### 42. [Jump Game II](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/42.%20Jump%20Game%20II(Hard)) 跳跃游戏II
