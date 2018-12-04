@@ -1,6 +1,9 @@
 # leetcode
 使用python刷leetcode题目，包含思路的简单描述和代码，不定时更新
 
+note:
+    从42开始，改用C++语言
+
 ##### 1. [longestPalindromeSubstring](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/1.%20longestPalindromeSubstring(Medium)) 查找字符串中最长回文
 ##### 2. [findMidianSortedArrays](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/2.%20findMidianSortedArrays(Hard)) 查找两个已排序数组的中位数
 ##### 3. [longestSubstringWithoutRepeating](https://github.com/SherlockUnknowEn/leetcode/tree/master/1-9/3.%20longestSubstringWithoutRepeating(Medium)) 查找字符串中的最长不重复子串的长度
@@ -44,3 +47,4 @@
 ##### 41. [Multiply Strings](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/41.%20Multiply%20Strings(Medium)) 字符串相乘
 ##### 42. [Jump Game II](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/42.%20Jump%20Game%20II(Hard)) 跳跃游戏II
 ##### 43. [Jump Game I](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/43.%20Jump%20Game%20I(Medium)) 跳跃游戏I
+##### 44. [Maximum Subarray](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/44.%20Maximum%20Subarray(Easy)) 最大子序列和
