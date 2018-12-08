@@ -50,3 +50,4 @@ note:
 ##### 44. [Maximum Subarray](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/44.%20Maximum%20Subarray(Easy)) 最大子序列和
 ##### 45. [Rotate Image](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/45.%20Rotate%20Image(Medium)) 旋转图像
 ##### 46. [Spiral Matrix](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/46.%20Spiral%20Matrix(Medium)) 螺旋矩阵
+##### 47. [Merge Intervals](https://github.com/SherlockUnknowEn/leetcode/tree/master/40-49/47.%20Merge%20Intervals(Medium)) 合并区间
