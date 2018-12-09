@@ -38,6 +38,13 @@ Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 ### 代码
 ```
 
+struct Interval {
+	int start;
+	int end;
+	Interval() : start(0), end(0) {}
+	Interval(int s, int e) : start(s), end(e) {}
+};
+
 class Solution {
 public:
 	vector<int> spiralOrder(vector<vector<int>>& matrix) {
