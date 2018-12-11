@@ -8,7 +8,7 @@
 
 问总共有多少条不同的路径？
 
-![loading img](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/50.%20Unique%20Paths(Medium)/robot_maze.png)
+![loading img](https://github.com/SherlockUnknowEn/leetcode/blob/master/50-59/50.%20Unique%20Paths(Medium)/robot_maze.png)
 
 
 英文题目:
