@@ -57,4 +57,5 @@ note:
 ##### 51. [Unique Paths II](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/51.%20Unique%20Paths%20II(Medium)) 不同路径II
 ##### 52. [Minimum Path Sum](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/52.%20Minimum%20Path%20Sum(Medium)) 最短路径和
 ##### 53. [Plus One](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/53.%20Plus%20One(Easy)) 加一
-##### 54. [Set Matrix Zeroes](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/54.%20Set%20Matrix%20Zeroes(Medium)) 矩阵置零
+##### 54. [Set Matrix Zeroes](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/54.%20Set%20Matrix%20Zeros(Medium)) 矩阵置零
+##### 55. [Search a 2D Matrix](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/55.%20Search%20a%202D%20Matrix(Medium)) 搜索二维矩阵
