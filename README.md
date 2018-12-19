@@ -59,3 +59,4 @@ note:
 ##### 53. [Plus One](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/53.%20Plus%20One(Easy)) 加一
 ##### 54. [Set Matrix Zeroes](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/54.%20Set%20Matrix%20Zeros(Medium)) 矩阵置零
 ##### 55. [Search a 2D Matrix](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/55.%20Search%20a%202D%20Matrix(Medium)) 搜索二维矩阵
+##### 56. [Sort Colors](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/56.%20Sort%20Colors(Medium)) 颜色排序
