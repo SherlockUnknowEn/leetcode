@@ -61,3 +61,4 @@ note:
 ##### 55. [Search a 2D Matrix](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/55.%20Search%20a%202D%20Matrix(Medium)) 搜索二维矩阵
 ##### 56. [Sort Colors](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/56.%20Sort%20Colors(Medium)) 颜色排序
 ##### 57. [Subsets](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/57.%20Subsets(Medium)) 子集
+##### 58. [Word Search](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/58.%20Word%20Search(Medium)) 单词搜索
