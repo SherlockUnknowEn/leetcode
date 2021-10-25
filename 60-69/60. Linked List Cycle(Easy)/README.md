@@ -26,7 +26,7 @@ Return `true` if there is a cycle in the linked list. Otherwise, return `false`.
  
 
 **example 1**
-![test 1](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist.png)
+![test 1](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist.png)
 
 ```
 Input: head = [3,2,0,-4], pos = 1
@@ -37,7 +37,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 
 
 **example 2**
-![test 2](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist_test2.png)
+![test 2](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist_test2.png)
 
 ```
 Input: head = [1,2], pos = 0
@@ -47,7 +47,7 @@ Explanation: There is a cycle in the linked list, where the tail connects to the
 ```
 
 **example 3**
-![test 3](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist_test3.png)
+![test 3](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/60.%20Linked%20List%20Cycle(Easy)/circularlinkedlist_test3.png)
 
 ```
 Input: head = [1], pos = -1
