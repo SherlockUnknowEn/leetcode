@@ -58,3 +58,4 @@
 ##### 58. [79.Word Search](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/58.%20Word%20Search(Medium)) 单词搜索
 ##### 59. [80.Remove Duplicates from Sorted Array II](https://github.com/SherlockUnknowEn/leetcode/tree/master/50-59/59.%20Remove%20Duplicates%20from%20Sorted%20Array%20II(Medium)) 删除排序数组中的重复项 II
 ##### 60. [141.Linked List Cycle](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/60.%20Linked%20List%20Cycle(Easy)) 环形链表
+##### 61. [142.Linked List Cycle II](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/61.%20Linked%20List%20Cycle%20II(Medium)) 环形链表2
