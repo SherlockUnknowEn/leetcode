@@ -5,6 +5,7 @@
 给你两个单链表的头节点 `headA` 和 `headB` ，请你找出并返回两个单链表相交的起始节点。如果两个链表没有交点，返回 `null` 。
 
 图示两个链表在节点 `c1` 开始相交：
+
 ![160_statement.png](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/160_statement.png)
 
 题目数据 保证 整个链式结构中不存在环。
@@ -30,6 +31,7 @@
 Given the heads of two singly linked-lists `headA` and `headB`, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return `null`.
 
 For example, the following two linked lists begin to intersect at node `c1`:
+
 ![160_statement.png](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/160_statement.png)
 
 The test cases are generated such that there are no cycles anywhere in the entire linked structure.
@@ -55,7 +57,9 @@ The judge will then create the linked structure based on these inputs and pass t
  
 
 **example 1**
+
 ![160_example_1.png](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/160_example_1.png)
+
 
 ```
 Input: intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
@@ -67,7 +71,9 @@ From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,
 
 
 **example 2**
+
 ![160_example_2.png](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/160_example_2.png)
+
 
 ```
 Input: intersectVal = 2, listA = [1,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
@@ -78,7 +84,9 @@ From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,
 ```
 
 **example 3**
+
 ![160_example_3.png](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/160_example_3.png)
+
 
 ```
 Input: intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
@@ -116,6 +124,7 @@ intersectVal == listA[skipA] == listB[skipB] if listA and listB intersect.
 1. 解决这个问题的关键是，通过某些方式，让 `p1` 和 `p2` 能够同时到达相交节点 `c1`
 2. 我们可以让 `p1` 遍历完链表 `A` 之后开始遍历链表 `B`，让 `p2` 遍历完链表 `B` 之后开始遍历链表 `A`，这样相当于「逻辑上」两条链表接在了一起。如果这样进行拼接，就可以让 `p1` 和 `p2` 同时进入公共部分，也就是同时到达相交节点 `c1`
 3. 具体原理如下图
+
 ![img](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/62.%20Intersection%20of%20Two%20Linked%20Lists(Easy)/2.jpeg)
 
 
