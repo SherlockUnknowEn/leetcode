@@ -21,7 +21,7 @@ If there are two middle nodes, return the `second middle` node.
 
 **example 1**
 
-![test 1](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/63.%20Middle%of%the%Linked%List(Easy)/lc-midlist1.jpg)
+![test 1](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/63.%20Middle%20of%20the%20Linked%20List(Easy)/lc-midlist1.jpg)
 
 ```
 Input: head = [1,2,3,4,5]
@@ -33,7 +33,7 @@ Explanation: The middle node of the list is node 3.
 
 **example 2**
 
-![test 2](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/63.%20Middle%of%the%Linked%List(Easy)/lc-midlist2.jpg)
+![test 2](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/63.%20Middle%20of%20the%20Linked%20List(Easy)/lc-midlist2.jpg)
 
 ```
 Input: head = [1,2,3,4,5,6]
