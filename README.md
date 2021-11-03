@@ -64,3 +64,5 @@
 
 ##### 64. [92.Reverse Linked List II](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/64.%20Reverse%20Linked%20List%20II(Medium)) 反转链表 II
 
+##### 65. [83.Remove Duplicates from Sorted List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/65.%20Remove%20Duplicates%20from%20Sorted%20List(Easy)) 删除排序链表中的重复元素
+
