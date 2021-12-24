@@ -25,7 +25,7 @@ You should **preserve** the original relative order of the nodes in each of the 
 
 **example 1**
 
-![example 1](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/66.%20Patition%20List(Medium)/patition.jpg)
+![example 1](https://github.com/SherlockUnknowEn/leetcode/blob/master/60-69/66.%20Partition%20List(Medium)/partition.jpg)
 
 ```
 Input: head = [1,4,3,2,5,2], x = 3

@@ -66,4 +66,4 @@
 
 ##### 65. [83.Remove Duplicates from Sorted List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/65.%20Remove%20Duplicates%20from%20Sorted%20List(Easy)) 删除排序链表中的重复元素
 
-##### 65. [86.Partition List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/66.%20Patition%20List(Medium)) 分隔链表
+##### 65. [86.Partition List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/66.%20Partition%20List(Medium)) 分隔链表
