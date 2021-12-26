@@ -66,4 +66,6 @@
 
 ##### 65. [83.Remove Duplicates from Sorted List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/65.%20Remove%20Duplicates%20from%20Sorted%20List(Easy)) 删除排序链表中的重复元素
 
-##### 65. [86.Partition List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/66.%20Partition%20List(Medium)) 分隔链表
+##### 66. [86.Partition List](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/66.%20Partition%20List(Medium)) 分隔链表
+
+##### 67. [138.Copy List with Random Pointer](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/67.%20Copy%20List%20with%20Random%20Pointer(Medium)) 复制带随机指针的链表
