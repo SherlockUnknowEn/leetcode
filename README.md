@@ -132,10 +132,4 @@
 
 ##### 67. [138.Copy List with Random Pointer](https://github.com/SherlockUnknowEn/leetcode/tree/master/60-69/67.%20Copy%20List%20with%20Random%20Pointer(Medium)) 复制带随机指针的链表
 
-
-
-
-
-
-
-[leetcode/未整理的题集](https://github.com/SherlockUnknowEn/leetcode/tree/master/%E6%9C%AA%E6%95%B4%E7%90%86) 未整理的题集，仅有代码
+其余未整理的题集，仅有代码
