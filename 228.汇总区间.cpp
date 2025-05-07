@@ -8,24 +8,20 @@
 class Solution {
 public:
     vector<string> summaryRanges(vector<int>& nums) {
-        if (nums.empty()) return {};
-        if (nums.size() == 1) return { to_string(nums[0]) };
         vector<string> ans;
-        int prev = nums[0];
-        for (int i = 1; i < nums.size(); i++) {
-            if ((long)nums[i] - nums[i - 1] != 1) {
-                if (prev != nums[i - 1])
-                    ans.push_back(to_string(prev) + string("->") + to_string(nums[i - 1]));
-                else
-                    ans.push_back(to_string(prev));
-                prev = nums[i];
+        int i = 0;
+        int n = nums.size();
+        // 分组循环
+        while (i < n) {
+            int start = i;
+            while (i < n-1 && nums[i] + 1 == nums[i + 1])
+                i++;
+            if (nums[i] == nums[start]) {
+                ans.push_back(to_string(nums[i]));
+            } else {
+                ans.push_back(to_string(nums[start]) + string("->") + to_string(nums[i]));
             }
-        }
-        int last = nums[nums.size() - 1];
-        if (prev != last) {
-            ans.push_back(to_string(prev) + string("->") + to_string(last));
-        } else {
-            ans.push_back(to_string(last));
+            i++;
         }
         return ans;
     }
